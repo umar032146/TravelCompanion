@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">7988270723</string>
+    <string name="google_api_key" translatable="false">AIzaSyCegn7q0CSDIiwfLzC6UKsCpvpTmY2wygI</string>
+    <string name="google_app_id" translatable="false">1:7988270723:android:dd405f20a05cc257e0edb6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCegn7q0CSDIiwfLzC6UKsCpvpTmY2wygI</string>
+    <string name="google_storage_bucket" translatable="false">travelcompanion-ce57f.appspot.com</string>
+    <string name="project_id" translatable="false">travelcompanion-ce57f</string>
+</resources>
